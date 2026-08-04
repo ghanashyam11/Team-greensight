@@ -312,9 +312,9 @@ git push origin feature-name
 
 Developed by
 
-![**Ghanashyam,**](https://github.com/ghanashyam11)
-![**Yashraj Naik,**](https://github.com/YashrajNaik1234)
-**Prajwala P,**
+![**Ghanashyam**](https://github.com/ghanashyam11),
+![**Yashraj Naik**](https://github.com/YashrajNaik1234),
+**Prajwala P**,
 **Abhishek**
 
 GitHub: https://github.com/ghanashyam11
