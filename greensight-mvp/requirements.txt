@@ -1,0 +1,12 @@
+numpy
+pandas
+open3d
+laspy
+pdal
+rasterio
+matplotlib
+tensorflow
+scikit-learn
+flask
+fastapi
+uvicorn
