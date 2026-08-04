@@ -312,8 +312,10 @@ git push origin feature-name
 
 Developed by
 
-![[Ghanashyam](https://avatars.githubusercontent.com/u/181870898?v=4)](https://github.com/ghanashyam11)
-![[Yashraj Naik](https://github.com/account)](https://github.com/YashrajNaik1234)
+![**Ghanashyam,**](https://github.com/ghanashyam11)
+![**Yashraj Naik,**](https://github.com/YashrajNaik1234)
+**Prajwala P,**
+**Abhishek**
 
 GitHub: https://github.com/ghanashyam11
 
