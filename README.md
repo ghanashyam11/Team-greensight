@@ -312,7 +312,9 @@ git push origin feature-name
 
 Developed by
 
-**Link**
+**Ghanashyam**
+**Yashraj Naik**
+
 GitHub: https://github.com/ghanashyam11
 
 ---
