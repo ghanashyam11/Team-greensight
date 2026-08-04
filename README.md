@@ -10,7 +10,7 @@ GreenSight is an AI-powered vegetation monitoring platform designed to analyze v
 
 ## 🌐 Live Website
 
-👉 **Project Website:** https://ghanashyam11.github.io/greensight-/
+👉 **Project Website:** https://greensight-lidar.base44.app/
 
 ---
 
@@ -312,8 +312,8 @@ git push origin feature-name
 
 Developed by
 
-**Ghanashyam,**
-**Yashraj Naik**
+**Ghanashyam,**(https://github.com/ghanashyam11)
+**Yashraj Naik**(https://github.com/YashrajNaik1234)
 
 GitHub: https://github.com/ghanashyam11
 
