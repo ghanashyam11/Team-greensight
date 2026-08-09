@@ -41,7 +41,8 @@ GreenSight is an AI-powered vegetation monitoring platform designed to analyze v
 
 ---
 
-# 📖 Overview
+#  ![📖 Overview](https://img.shields.io/badge/📖-Overview-success)
+
 
 GreenSight integrates Artificial Intelligence with LiDAR technology to provide accurate vegetation assessment and monitoring.
 
