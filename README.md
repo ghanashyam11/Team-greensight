@@ -1,23 +1,22 @@
 <div align="center">
 
-# **G R E E N S I G H T**
+# **GREENSIGHT**
 
-### `AI-POWERED VEGETATION INTELLIGENCE`
+### *AI-Powered Vegetation Intelligence*
 
 <br>
 
-**[ LiDAR ]**   **[ REMOTE SENSING ]**   **[ COMPUTER VISION ]**   **[ GEOAI ]**
+🌿 **LiDAR**   •   🛰️ **Remote Sensing**   •   👁️ **Computer Vision**   •   🤖 **GeoAI**
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=700&color=00F2FF&center=true&vCenter=true&width=800&lines=%3E%3E+INITIALIZING+GREENSIGHT...;%3E%3E+PROCESSING+ENVIRONMENTAL+DATA...;%3E%3E+ANALYZING+VEGETATION...;%3E%3E+GENERATING+INTELLIGENCE...;%3E%3E+SYSTEM+READY." />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=4000&pause=1200&color=2E8B57&center=true&vCenter=true&width=750&lines=See+the+planet+in+data.;Understand+vegetation+in+3D.;Transform+data+into+intelligence.;Build+a+smarter%2C+greener+future." />
 
 <br><br>
 
-> **Turning environmental data into decisions.**
+### *Turning environmental data into decisions.*
 
 </div>
-
 
 
 **Contributors:**
