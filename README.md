@@ -1,577 +1,590 @@
-<div align="center">
+<<div align="center">
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a0f,35:0f9b0f,70:00c9a7,100:00f2c3&height=230&section=header&text=GreenSight&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20LiDAR%20%7C%20Smart%20Vegetation%20Monitoring&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06140D,25:0B5D3B,55:00A878,80:00D9B5,100:06140D&height=260&section=header&text=GreenSight&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20LiDAR%20%7C%20Remote%20Sensing%20%7C%20Environmental%20Intelligence&descAlignY=61&descSize=19" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=00F2C3&center=true&vCenter=true&width=750&lines=🌿+AI-Powered+Vegetation+Intelligence;📡+LiDAR+Point+Cloud+Processing;🌳+Smart+Tree+%26+Vegetation+Analysis;🛰️+Geospatial+Environmental+Monitoring;🤖+From+Raw+Point+Clouds+to+Actionable+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00D9B5&center=true&vCenter=true&width=850&lines=🌿+AI-Powered+Vegetation+Monitoring;📡+LiDAR+Point+Cloud+Analysis;🛰️+Remote+Sensing+%2B+GeoAI;🌳+Vegetation+Health+%26+Density+Assessment;🌍+Turning+Environmental+Data+into+Intelligence" />
 
 <br><br>
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](#)
-[![LiDAR](https://img.shields.io/badge/LiDAR-Point%20Cloud-00C9A7?style=for-the-badge)](#)
-[![AI](https://img.shields.io/badge/AI-Vegetation%20Analysis-0F9B0F?style=for-the-badge\&logo=tensorflow\&logoColor=white)](#)
-[![Open3D](https://img.shields.io/badge/Open3D-3D%20Processing-111111?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/Project-GitHub-181717?style=for-the-badge\&logo=github)](#)
+<a href="https://greensight-lidar.base44.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-GreenSight-00A878?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ghanashyam11/greensight-">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00A878?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-GEOAI-0B5D3B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-VEGETATION%20INTELLIGENCE-00D9B5?style=for-the-badge"/>
+
+<br><br>
+
+### 🌿 **From Point Clouds to Planetary Insights.**
+
+**GreenSight** is an AI-powered environmental monitoring platform that combines
+**LiDAR, Remote Sensing, Machine Learning and Geospatial Visualization**
+to transform complex vegetation data into meaningful environmental insights.
 
 <br>
 
-### 🌿 **See Vegetation Differently.**
-
-**GreenSight** is an AI-driven vegetation monitoring system that transforms
-**LiDAR point-cloud data → 3D vegetation information → intelligent environmental insights.**
-
-<br>
-
-> **“Turning millions of LiDAR points into meaningful information about our planet.”** 🌍
+> 🌍 **Observe. Analyze. Understand. Protect.**
 
 </div>
 
 ---
 
-## 🚀 What is GreenSight?
+# 🌿 What is GreenSight?
 
-GreenSight is designed to analyze vegetation using **3D LiDAR point clouds and AI-based processing techniques**.
+**GreenSight** is a smart vegetation monitoring platform designed to analyze and visualize vegetation conditions using **LiDAR data, remote sensing and machine-learning concepts**.
 
-Instead of manually inspecting large-scale vegetation data, GreenSight aims to automatically extract meaningful information such as:
+The platform aims to reduce the complexity of environmental datasets by converting them into intuitive visualizations, statistics and actionable insights.
 
-🌳 **Tree & vegetation structure**
-📏 **Tree height estimation**
-📐 **Canopy characteristics**
-🌿 **Vegetation density**
-🗺️ **3D spatial distribution**
-🤖 **AI-assisted vegetation analysis**
+Instead of simply looking at raw environmental data, GreenSight focuses on answering questions such as:
 
-The ultimate goal is to create a scalable platform for **smart vegetation monitoring, forestry analysis, environmental assessment, and geospatial intelligence.**
+* 🌳 How dense is the vegetation?
+* 🌿 What is the vegetation health condition?
+* 📡 What information can LiDAR reveal about vegetation?
+* 🗺️ How is vegetation distributed spatially?
+* 📊 How can environmental data be presented clearly?
+* 🤖 How can AI assist large-scale vegetation analysis?
 
 ---
 
-## 🧠 How GreenSight Works
+# 🎯 The Problem
+
+Environmental and vegetation monitoring often involves **large, complex datasets** generated from LiDAR, remote sensing and other geospatial technologies.
+
+Traditional analysis can involve:
 
 ```text
-              🌍 REAL WORLD
-                   │
-                   ▼
-          📡 LiDAR / 3D DATA
-                   │
-                   ▼
-        ┌─────────────────────┐
-        │  Point Cloud Input  │
-        │      (.LAS/.LAZ)    │
-        └──────────┬──────────┘
-                   │
-                   ▼
-        🔧 Pre-processing
-                   │
-          Noise / Outliers
-          Classification
-          Filtering
-                   │
-                   ▼
-          🧊 3D Processing
-                   │
-          Open3D / PDAL
-                   │
-                   ▼
-           🤖 AI ANALYSIS
-                   │
-                   ▼
-       🌳 VEGETATION INSIGHTS
-                   │
-          ┌────────┼────────┐
-          ▼        ▼        ▼
-       Height    Density   Canopy
-          │        │        │
-          └────────┼────────┘
-                   ▼
-          📊 VISUALIZATION
-                   │
-                   ▼
-          🌍 ENVIRONMENTAL
-             INTELLIGENCE
+Large Datasets
+      ↓
+Complex Processing
+      ↓
+Manual Interpretation
+      ↓
+Difficult Visualization
+      ↓
+Slow Environmental Assessment
 ```
 
----
-
-## ✨ Key Capabilities
-
-| 🌿 Capability                | 🔍 Description                                               |
-| ---------------------------- | ------------------------------------------------------------ |
-| 📡 **LiDAR Processing**      | Process large-scale 3D point-cloud datasets                  |
-| 🌳 **Vegetation Detection**  | Identify and isolate vegetation structures                   |
-| 📏 **Tree Height Analysis**  | Estimate vegetation/tree height from 3D data                 |
-| 🧊 **3D Visualization**      | Explore vegetation in three-dimensional space                |
-| 🤖 **AI Analysis**           | Apply machine-learning techniques for automated analysis     |
-| 🗺️ **Spatial Intelligence** | Understand vegetation distribution across an area            |
-| 📊 **Data Visualization**    | Convert complex point-cloud information into usable insights |
+GreenSight approaches this challenge by bringing the data, analysis and visualization into a unified platform.
 
 ---
 
-## 🛠️ Technology Stack
+# 💡 Our Solution
 
-<div align="center">
-
-| Category                 | Technologies                  |
-| ------------------------ | ----------------------------- |
-| 🐍 **Programming**       | Python                        |
-| 📡 **LiDAR Processing**  | LAS / LAZ, LiDAR Point Clouds |
-| 🧊 **3D Processing**     | Open3D                        |
-| 🔧 **Point Cloud Tools** | PDAL, laspy                   |
-| 🤖 **AI / ML**           | TensorFlow / Machine Learning |
-| 🗺️ **Geospatial**       | Rasterio / GIS                |
-| 📊 **Visualization**     | Matplotlib / 3D Visualization |
-| ⚙️ **Development**       | Git, GitHub, VS Code          |
-
-</div>
-
----
-
-## 🌎 Potential Applications
-
-GreenSight can be extended toward:
-
-🌲 **Forest Monitoring**
-🌳 **Urban Tree Management**
-🌿 **Vegetation Health Assessment**
-🏙️ **Smart City Green Infrastructure**
-🌍 **Environmental Monitoring**
-🚁 **UAV / Drone LiDAR Analysis**
-🛰️ **Remote Sensing & GeoAI**
-🔥 **Forest Risk & Change Monitoring**
-
----
-
-## 🔬 Project Vision
-
-GreenSight is more than a LiDAR visualization tool.
-
-The long-term vision is to build a **smart vegetation intelligence platform** capable of combining:
+GreenSight follows a simple philosophy:
 
 ```text
-LiDAR
-  +
-Satellite Data
-  +
-Drone Data
-  +
-GIS
-  +
-AI / ML
-  +
-Environmental Data
-        ↓
-🌍 SMART VEGETATION INTELLIGENCE
+             🌍 ENVIRONMENT
+                    │
+                    ▼
+        📡 LiDAR + REMOTE SENSING
+                    │
+                    ▼
+            ⚙️ DATA PROCESSING
+                    │
+                    ▼
+             🤖 AI ANALYSIS
+                    │
+                    ▼
+          🌿 VEGETATION INSIGHTS
+                    │
+                    ▼
+             📊 VISUALIZATION
+                    │
+                    ▼
+             🌍 DECISION SUPPORT
 ```
 
-This can enable faster and more data-driven decisions for **forestry, urban planning, environmental monitoring, and ecosystem management.**
+The objective is to transform raw environmental information into **understandable visual intelligence**.
 
 ---
 
-## 📂 Project Structure
+# 🧠 System Architecture
 
 ```text
-GreenSight/
-│
-├── 📁 data/
-│   ├── raw/
-│   └── processed/
-│
-├── 📁 src/
-│   ├── preprocessing/
-│   ├── pointcloud/
-│   ├── vegetation/
-│   ├── ai/
-│   └── visualization/
-│
-├── 📁 notebooks/
-│
-├── 📁 models/
-│
-├── 📁 outputs/
-│
-├── 📄 requirements.txt
-├── 📄 README.md
-└── 📄 LICENSE
+┌─────────────────────────────────────────────┐
+│              🌍 DATA SOURCES                │
+│                                             │
+│   📡 LiDAR     🛰️ Remote Sensing     🌦️ Data │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│              ⚙️ DATA PROCESSING             │
+│                                             │
+│  Cleaning • Filtering • Classification      │
+│  Feature Extraction • Data Preparation      │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│                 🤖 AI LAYER                 │
+│                                             │
+│ Vegetation Classification • Health Analysis │
+│ Density Analysis • Pattern Identification   │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│              🗺️ GEO-VISUALIZATION           │
+│                                             │
+│ Maps • Charts • Statistics • 3D Data        │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│          🌿 ENVIRONMENTAL INTELLIGENCE      │
+│                                             │
+│ Vegetation • Health • Density • Conditions  │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📈 Development Roadmap
+# 📡 LiDAR → 🌿 Vegetation Intelligence
 
-* [x] 🌱 Project concept
-* [x] 📡 LiDAR dataset integration
-* [x] 🧊 Point-cloud processing
-* [x] 🌳 Vegetation-focused analysis
-* [ ] 🤖 AI-based vegetation classification
-* [ ] 📏 Automated tree-height estimation
-* [ ] 🗺️ GIS integration
-* [ ] 🛰️ Satellite + LiDAR fusion
-* [ ] 📊 Interactive visualization dashboard
-* [ ] 🌍 Large-scale environmental monitoring
+One of GreenSight's key concepts is the use of **LiDAR point-cloud data** for understanding vegetation structures.
 
----
-
-<div align="center">
-
-### 🌿 **GreenSight**
-
-### *From Point Clouds to Planetary Insights.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2c3,35:00c9a7,70:0f9b0f,100:071a0f&height=150&section=footer" width="100%"/>
-
-</div>
-
-
-
-**Contributors:**
-- [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
-- [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
-- [Yashraj Naik](https://www.linkedin.com/in/yashraj-naik-94bb4625b/)
-- Abhishek
-
-![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-pink)
-
-GreenSight is an AI-powered vegetation monitoring platform designed to analyze vegetation health using **LiDAR data**, **remote sensing**, and **machine learning techniques**. The system provides intelligent visualization and analysis of vegetation density, health, and environmental conditions to assist researchers, environmental agencies, and urban planners in making data-driven decisions.
-
----
-
-## 🌐 Live Website
-
-👉 **Project Website:** https://greensight-lidar.base44.app/
-
----
-
-# 📖 Overview
-
-GreenSight integrates Artificial Intelligence with LiDAR technology to provide accurate vegetation assessment and monitoring.
-
-The application helps users:
-
-- Detect vegetation health
-- Monitor forest density
-- Analyze environmental conditions
-- Visualize vegetation distribution
-- Generate meaningful insights from LiDAR datasets
-
-The project aims to improve environmental monitoring while reducing manual effort and increasing accuracy.
-
----
-
-# 🚀 Features
-
-- 🌳 AI-based vegetation analysis
-- 📡 LiDAR data visualization
-- 📈 Interactive charts and statistics
-- 🛰 Remote sensing integration
-- 🌍 User-friendly dashboard
-- 📱 Responsive web interface
-- 📊 Real-time data representation
-- 🎯 Accurate vegetation health assessment
-
----
-
-# 🛠 Technologies Used
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Visualization
-
-- Chart.js
-- Leaflet.js (Maps)
-- SVG Graphics
-
-### AI Concepts
-
-- Vegetation Classification
-- Health Prediction
-- NDVI Analysis
-- LiDAR Point Cloud Processing
-
-### Other Tools
-
-- Git
-- GitHub
-- GitHub Pages
-
----
-
-# 📂 Project Structure
-
-```
-greensight/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── styles/
-│
-├── css/
-│
-├── js/
-│
-├── index.html
-├── about.html
-├── contact.html
-├── services.html
-├── README.md
-│
-└── ...
+```text
+LiDAR Point Cloud
+       ↓
+   Preprocessing
+       ↓
+Noise / Outlier Filtering
+       ↓
+Point Classification
+       ↓
+3D Point-Cloud Analysis
+       ↓
+Vegetation Extraction
+       ↓
+Height / Density / Structure
+       ↓
+🌳 Vegetation Intelligence
 ```
 
----
-
-# ⚙ Working Process
-
-The GreenSight system follows the workflow below:
-
-```
-LiDAR Data Collection
-          │
-          ▼
-Data Preprocessing
-          │
-          ▼
-Vegetation Classification
-          │
-          ▼
-AI-based Health Analysis
-          │
-          ▼
-Visualization Dashboard
-          │
-          ▼
-Final Insights & Reports
-```
+This approach provides a foundation for applications such as **vegetation structure analysis, tree-height estimation, canopy analysis and spatial vegetation assessment**.
 
 ---
 
-# 🔄 System Workflow
+# ✨ Key Features
 
-### Step 1
+<table>
+<tr>
+<td width="50%">
 
-Collect LiDAR and vegetation-related datasets.
+### 🌳 Vegetation Analysis
 
-↓
+Analyze vegetation characteristics and environmental conditions.
 
-### Step 2
+</td>
+<td width="50%">
 
-Preprocess raw environmental data.
+### 📡 LiDAR Visualization
 
-↓
+Visualize and interpret LiDAR-based vegetation information.
 
-### Step 3
+</td>
+</tr>
 
-Apply AI algorithms for vegetation detection.
+<tr>
+<td>
 
-↓
+### 🤖 AI-Assisted Analysis
 
-### Step 4
+Apply machine-learning concepts to vegetation classification and health assessment.
 
-Analyze vegetation health and density.
+</td>
+<td>
 
-↓
+### 📊 Interactive Dashboard
 
-### Step 5
+Present environmental information through charts, statistics and visual interfaces.
 
-Generate graphical visualization.
+</td>
+</tr>
 
-↓
+<tr>
+<td>
 
-### Step 6
+### 🛰️ Remote Sensing
 
-Display reports on the interactive dashboard.
+Integrate remote-sensing concepts into environmental monitoring workflows.
+
+</td>
+<td>
+
+### 🗺️ Spatial Visualization
+
+Understand vegetation distribution across geographic areas.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌿 Health Assessment
+
+Support vegetation health and density assessment.
+
+</td>
+<td>
+
+### 📈 Environmental Insights
+
+Convert complex datasets into understandable information.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 Modules
+# 🖥️ Platform Modules
 
-## 🌿 Home
+## 🏠 Home
 
-Introduces the GreenSight platform and its objectives.
+Introduces the GreenSight platform, its objectives and environmental-monitoring capabilities.
 
 ---
 
 ## 📡 LiDAR Analysis
 
-Displays LiDAR-based vegetation information.
+Provides a dedicated environment for exploring **LiDAR-based vegetation information and visualization**.
 
 ---
 
 ## 🤖 AI Analysis
 
-Uses intelligent algorithms for vegetation health prediction.
+Focuses on intelligent vegetation analysis concepts including:
+
+* Vegetation classification
+* Health prediction
+* NDVI analysis
+* LiDAR point-cloud processing
 
 ---
 
-## 📈 Dashboard
+## 📊 Environmental Dashboard
 
-Shows:
+The dashboard presents important environmental indicators such as:
 
-- Vegetation Density
-- Health Score
-- Area Coverage
-- Environmental Statistics
-
----
-
-## 📞 Contact
-
-Provides project information and contact details.
-
----
-
-# 📷 Screenshots
-
-## Home Page
-
-_Add project screenshot here_
-
+```text
+🌿 Vegetation Density
+💚 Health Score
+🗺️ Area Coverage
+🌍 Environmental Statistics
+📈 Analytical Visualizations
 ```
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### 💻 Core Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 📊 Visualization & Mapping
+
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge\&logo=leaflet\&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-Visualization-FFB300?style=for-the-badge)
+
+### 🤖 AI / Environmental Intelligence
+
+![AI](https://img.shields.io/badge/AI-Vegetation%20Analysis-0B5D3B?style=for-the-badge)
+![LiDAR](https://img.shields.io/badge/LiDAR-Point%20Cloud-00A878?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-GeoAI-00D9B5?style=for-the-badge)
+
+### ⚙️ Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+</div>
+
+---
+
+# 🔄 Complete Workflow
+
+```text
+       📡 LiDAR / Environmental Data
+                    │
+                    ▼
+          ⚙️ Data Preprocessing
+                    │
+                    ▼
+        🌿 Vegetation Classification
+                    │
+                    ▼
+          🤖 AI-Based Analysis
+                    │
+                    ▼
+       📊 Health & Density Analysis
+                    │
+                    ▼
+          🗺️ Interactive Mapping
+                    │
+                    ▼
+            📈 Visualization
+                    │
+                    ▼
+       🌍 Environmental Insights
+```
+
+---
+
+# 📸 Project Preview
+
+> Add your actual screenshots here to make the repository visually powerful.
+
+### 🏠 Home Dashboard
+
+```text
 assets/images/home.png
 ```
 
----
+### 📊 Environmental Dashboard
 
-## Dashboard
-
-_Add dashboard screenshot here_
-
-```
+```text
 assets/images/dashboard.png
 ```
 
----
+### 🌿 Vegetation Analysis
 
-## Vegetation Analysis
-
-_Add vegetation analysis screenshot here_
-
-```
+```text
 assets/images/analysis.png
 ```
 
----
+### 📡 LiDAR Visualization
 
-# 📈 Future Enhancements
+```text
+assets/images/lidar.png
+```
 
-- Drone Image Integration
-- Satellite Data Support
-- Live Weather API
-- Real-time AI Predictions
-- Mobile Application
-- Cloud Database Integration
-- Export Reports as PDF
-- GIS Mapping Features
+**Recommended:** Add 3–5 real screenshots/GIFs here. This will make a much bigger visual impact than adding more text.
 
 ---
 
-# 🎯 Applications
+# 🌎 Real-World Applications
 
-GreenSight can be used in:
+GreenSight has potential applications across multiple environmental and geospatial domains.
 
-- Forest Monitoring
-- Agriculture
-- Smart Cities
-- Environmental Research
-- Disaster Management
-- Wildlife Conservation
-- Urban Planning
-- Climate Change Analysis
+| Domain                        | Application                           |
+| ----------------------------- | ------------------------------------- |
+| 🌲 **Forestry**               | Forest and vegetation monitoring      |
+| 🏙️ **Smart Cities**          | Urban tree and green-space management |
+| 🌿 **Agriculture**            | Vegetation condition assessment       |
+| 🛰️ **Remote Sensing**        | GeoAI-based environmental analysis    |
+| 🚁 **UAV / Drone**            | Drone LiDAR and imagery analysis      |
+| 🌍 **Environmental Research** | Ecosystem monitoring                  |
+| 🔥 **Disaster Management**    | Environmental risk assessment         |
+| 🐘 **Wildlife Conservation**  | Habitat and vegetation assessment     |
+| 🏗️ **Urban Planning**        | Green infrastructure analysis         |
+| 🌡️ **Climate Studies**       | Environmental change monitoring       |
 
 ---
 
-# 💻 Installation
+# 🚀 Future Roadmap
 
-Clone the repository
+GreenSight is designed with a broader environmental-intelligence vision.
+
+### Phase 1 — Foundation
+
+* [x] 🌱 Project concept
+* [x] 📡 LiDAR integration
+* [x] 🧊 Data visualization
+* [x] 🌿 Vegetation analysis
+* [x] 📊 Interactive dashboard
+
+### Phase 2 — Intelligence
+
+* [ ] 🤖 Advanced AI vegetation classification
+* [ ] 📏 Automated tree-height estimation
+* [ ] 🌳 Advanced canopy analysis
+* [ ] 🌿 Improved vegetation health prediction
+* [ ] 🗺️ Advanced GIS integration
+
+### Phase 3 — Data Fusion
+
+* [ ] 🛰️ Satellite + LiDAR fusion
+* [ ] 🚁 Drone imagery integration
+* [ ] 🌦️ Live weather-data integration
+* [ ] 🌍 Multi-source environmental analysis
+
+### Phase 4 — Platform
+
+* [ ] ☁️ Cloud database
+* [ ] 📱 Mobile application
+* [ ] 📈 Real-time monitoring
+* [ ] 📄 Automated PDF reports
+* [ ] 🌐 Large-scale environmental monitoring
+
+---
+
+# 🌐 Live Project
+
+<div align="center">
+
+### 🚀 Explore GreenSight
+
+<a href="https://greensight-lidar.base44.app/">
+
+<img src="https://img.shields.io/badge/OPEN%20GREENsIGHT-00A878?style=for-the-badge&logo=googleearth&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**Live Website:**
+https://greensight-lidar.base44.app/
+
+</div>
+
+---
+
+# 💻 Run Locally
+
+## 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/ghanashyam11/greensight-.git
 ```
 
-Move into the project folder
+## 2️⃣ Enter the project directory
 
 ```bash
 cd greensight-
 ```
 
-Open the project
+## 3️⃣ Launch the application
 
-```bash
-Open index.html in your browser
+Open:
+
+```text
+index.html
 ```
 
-or use VS Code Live Server.
+in your browser.
+
+Or use **VS Code Live Server** for local development.
+
+---
+
+# 📂 Project Structure
+
+```text
+greensight/
+│
+├── 📁 assets/
+│   ├── images/
+│   ├── icons/
+│   └── styles/
+│
+├── 📁 css/
+│
+├── 📁 js/
+│
+├── 📄 index.html
+├── 📄 about.html
+├── 📄 contact.html
+├── 📄 services.html
+│
+├── 📄 README.md
+└── 📄 ...
+```
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome!
-
-1. Fork the repository
-2. Create your feature branch
+GreenSight is open to ideas, improvements and contributions.
 
 ```bash
+# Fork the repository
+
+# Create a feature branch
 git checkout -b feature-name
-```
 
-3. Commit your changes
-
-```bash
+# Commit your changes
 git commit -m "Added new feature"
-```
 
-4. Push to the branch
-
-```bash
+# Push your branch
 git push origin feature-name
+
+# Open a Pull Request
 ```
 
-5. Create a Pull Request
+Every contribution can help make environmental monitoring **smarter and more accessible.** 🌍
 
 ---
 
-# 👨‍💻 Authors
+# 👨‍💻 Contributors
 
-Developed by
+<div align="center">
 
-![**Ghanashyam**](https://github.com/ghanashyam11),
-![**Yashraj Naik**](https://github.com/YashrajNaik1234),
-**Prajwala P**,
+### 🌿 GreenSight Team
+
+**Ghanashyam M**
+**Yashraj Naik**
+**Prajwala P**
 **Abhishek**
 
-GitHub: https://github.com/ghanashyam11
+</div>
+
+### 🔗 Team Links
+
+* [Ghanashyam M](https://github.com/ghanashyam11)
+* [Yashraj Naik](https://github.com/YashrajNaik1234)
+* [Ghanashyam M — LinkedIn](https://www.linkedin.com/in/ghanashyam1)
+* [Prajwala P — LinkedIn](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
+* [Yashraj Naik — LinkedIn](https://www.linkedin.com/in/yashraj-naik-94bb4625b/)
 
 ---
 
-# 📄 License
+# 📜 License
 
-This project is licensed under the MIT License.
-
----
-
-# ⭐ Support
-
-If you found this project useful,
-
-⭐ Star this repository
-
-🍴 Fork it
-
-📢 Share it with others
+This project is licensed under the **MIT License**.
 
 ---
 
-## 🌍 GreenSight
+<div align="center">
 
-**AI + LiDAR for Smarter Environmental Monitoring**
+## ⭐ Support GreenSight
+
+If you find GreenSight interesting or useful:
+
+**⭐ Star this repository**
+**🍴 Fork the project**
+**📢 Share it with others**
+**🤝 Contribute to the project**
+
+<br>
+
+### 🌍 **GreenSight**
+
+### *AI + LiDAR for Smarter Environmental Monitoring.*
+
+<br>
+
+> **“Technology should not only help us understand the planet — it should help us protect it.”** 🌿
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06140D,25:00D9B5,55:00A878,80:0B5D3B,100:06140D&height=180&section=footer" width="100%"/>
+
+</div>
