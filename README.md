@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/greensight-hero.gif" width="100%">
+<img src="[assets/greensight-hero.gif](https://chatgpt.com/s/m_6a7860e8978481919667c18eb64e378c)" width="100%">
 
 </div>
 
