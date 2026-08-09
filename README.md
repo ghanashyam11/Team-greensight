@@ -21,7 +21,7 @@
 </div>
 
 **Contributors:**
-![Ghanashyam M](https://www.linkedin.com/in/ghanashyam1/-red)
+- [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1/)
 - [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
 - [Yashraj Naik](https://www.linkedin.com/in/yashraj-naik-94bb4625b/)
 - Abhishek
@@ -34,7 +34,8 @@ GreenSight is an AI-powered vegetation monitoring platform designed to analyze v
 
 ---
 
-## 🌐 Live Website
+##  ![🌐 Live Website](https://img.shields.io/badge/License-MIT-yellow)
+
 
 👉 **Project Website:** https://greensight-lidar.base44.app/
 
