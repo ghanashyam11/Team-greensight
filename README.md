@@ -4,7 +4,7 @@
 
 <br><br>
 
-# 🌿 **GREENSIGHT**
+# 🌿 **GREENSIGHT SMART VEGITATION USING AI & LiDAR TECHNOLOGY**
 
 ### **AI-Powered Vegetation Intelligence**
 
