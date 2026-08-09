@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a09,100:00e676&height=280&section=header&text=GreenSight&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Next-Gen%20LiDAR%20%26%20AI%20Vegetation%20Intelligence&descSize=22&descAlignY=60" width="100%"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00e676&center=true&vCenter=true&width=800&lines=Decoding+the+Forest+with+AI;Turning+Point+Clouds+into+Actionable+Data;Smart+Geospatial+Monitoring" />
+  <img src="link_to_your_lidar_point_cloud.gif" width="800" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 242, 195, 0.4);"/>
+  <h1>🌲 GreenSight 🌲</h1>
+  <p><b>AI | LiDAR | Smart Vegetation Monitoring</b></p>
 </div>
 
 
