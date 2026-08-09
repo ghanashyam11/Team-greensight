@@ -1,27 +1,26 @@
 <div align="center">
 
-<img src="YOUR_FUTURISTIC_EARTH_GIF.gif" width="100%">
-
-<br><br>
-
-# **G R E E N S I G H T**
-
-### **AI-Powered Vegetation Intelligence**
+<img src="YOUR_CINEMATIC_FOREST_GIF.gif" width="100%">
 
 <br>
 
-**LI DAR** &nbsp;&nbsp; **REMOTE SENSING** &nbsp;&nbsp; **COMPUTER VISION** &nbsp;&nbsp; **GEOAI**
+# **GREENSIGHT**
+
+### *AI-Powered Vegetation Intelligence*
+
+<br>
+
+`LiDAR` &nbsp; • &nbsp; `Remote Sensing` &nbsp; • &nbsp; `Computer Vision` &nbsp; • &nbsp; `GeoAI`
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD0&center=true&vCenter=true&width=800&lines=OBSERVE.;ANALYZE.;UNDERSTAND.;PROTECT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=7CFFB2&center=true&vCenter=true&width=800&lines=%3E+Scanning+vegetation...;%3E+Processing+LiDAR+data...;%3E+Applying+spatial+intelligence...;%3E+Environmental+insight+ready." />
 
 <br><br>
 
-> **Turning environmental data into decisions.**
+### **Turning environmental data into decisions.**
 
 </div>
-
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
 - [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
