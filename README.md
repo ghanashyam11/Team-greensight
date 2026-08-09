@@ -4,7 +4,7 @@
 
 <br><br>
 
-<# 🌿 **GREENSIGHT SMART VEGITATION USING AI & LiDAR TECHNOLOGY**  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=3500&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=See+Vegetation.+Understand+the+Planet.;Turning+Environmental+Data+into+Intelligence.;Technology+for+a+Greener+Future." />
+# 🌿 **GREENSIGHT SMART VEGITATION USING AI & LiDAR TECHNOLOGY**  
 
 ### **AI-Powered Vegetation Intelligence**
 
