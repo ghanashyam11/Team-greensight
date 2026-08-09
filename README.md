@@ -1,27 +1,32 @@
 <div align="center">
 
-# GREEN<span style="color:#00B894">SIGHT</span>
+# 🌿 **GreenSight**
 
-### **AI-Powered Vegetation Intelligence**
-
-<br>
-
-**LiDAR** · **Remote Sensing** · **Computer Vision** · **GeoAI**
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00B894&center=true&vCenter=true&width=750&lines=Analyze+%7C+Visualize+%7C+Understand;3D+Vegetation+%26+LiDAR+Analysis;Smart+Environmental+Monitoring;Technology+for+a+Greener+Planet" />
-
-<br><br>
-
-> **Turning environmental data into decisions.**
+### *Technology for a Greener Planet.*
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-00B894?style=for-the-badge)](https://greensight-lidar.base44.app/)
-[![GitHub](https://img.shields.io/badge/💻%20SOURCE-111111?style=for-the-badge\&logo=github)](https://github.com/ghanashyam11/greensight-)
+🌳 **VEGETATION**
+↓
+📡 **LiDAR & REMOTE SENSING**
+↓
+🤖 **ARTIFICIAL INTELLIGENCE**
+↓
+🗺️ **SPATIAL INTELLIGENCE**
+↓
+🌍 **ENVIRONMENTAL INSIGHTS**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1100&color=00A878&center=true&vCenter=true&width=800&lines=See+Vegetation+in+3D;Measure+What+Matters;Understand+Environmental+Change;Build+a+Smarter+Planet" />
+
+<br><br>
+
+**GreenSight**
+*AI + LiDAR + Remote Sensing for smarter vegetation monitoring.*
 
 </div>
+
 
 
 
