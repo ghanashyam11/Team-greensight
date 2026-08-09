@@ -1,5 +1,4 @@
-[![# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🌿+GreenSight;Smart+Vegetation+Monitoring;Powered+by+AI+%26+LiDAR+🛰️)](https://git.io/typing-svg)
-
+[![# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=🌿+GreenSight;Smart+Vegetation+Monitoring;Powered+by+AI+%26+LiDAR+🛰️)](https://git.io/typing-svg)
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
 - [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
