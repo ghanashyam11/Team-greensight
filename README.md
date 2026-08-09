@@ -26,7 +26,7 @@
 - [Yashraj Naik](https://www.linkedin.com/in/yashraj-naik-94bb4625b/)
 - Abhishek
 
-![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-green)
+![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
