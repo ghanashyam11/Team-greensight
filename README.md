@@ -21,7 +21,7 @@
 </div>
 
 **Contributors:**
-- [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1/AI-LiDAR-red)
+- ![Ghanashyam M](https://www.linkedin.com/in/ghanashyam1/AI-LiDAR-red)
 - [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
 - [Yashraj Naik](https://www.linkedin.com/in/yashraj-naik-94bb4625b/)
 - Abhishek
