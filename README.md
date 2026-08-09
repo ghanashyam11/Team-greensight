@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="blob:https://chatgpt.com/48b6a64c-b8ef-4543-b4de-a81429bcac30" width="100%">
+<img src="assets/greensight-cinematic-hero.gif" width="100%">
 
 </div>
 
