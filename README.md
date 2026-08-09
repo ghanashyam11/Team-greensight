@@ -1,13 +1,24 @@
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=🌿%20GreenSight&fontSize=80&fontColor=00F2C3&animation=scaleIn&desc=Smarter%20Monitoring.%20Better%20Planet.&descSize=24&descAlignY=75" width="100%"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=AI-powered+vegetation+analysis;LiDAR+point+cloud+processing;Smart+environmental+monitoring" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Status-Live-00F2C3?style=for-the-badge&logo=vercel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tech-LiDAR%20%7C%20AI-111111?style=for-the-badge&logo=python" />
-  <br><br>
+
+# ⚡ G R E E N S I G H T ⚡
+
+### `[ 🌩️ AI | 📡 LiDAR | 🌲 VEGETATION INTELLIGENCE ]`
+
+> **SYSTEM STATUS:** `ONLINE` 🟢 &nbsp;|&nbsp; **PROCESSING:** `POINT_CLOUDS` 🛰️
+> 
+> *Turning raw environmental data into high-voltage insights.*
+
+<br>
+
+| ⚡ AI Analytics | 🌩️ 3D Processing | ⚡ Geospatial Mapping |
+| :---: | :---: | :---: |
+| Automated Health Scoring | Noise Removal | Distribution Tracking |
+| Density Calculations | Ground Classification | Canopy Volume |
+
+<br>
 </div>
+
+---
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
