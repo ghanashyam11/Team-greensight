@@ -1,4 +1,4 @@
-# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️
+# ![🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️](https://img.shields.io/badge/License-MIT-pink)
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
