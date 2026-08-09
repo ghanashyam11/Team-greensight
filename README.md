@@ -1,62 +1,362 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a0f,35:0f9b0f,70:00c9a7,100:00f2c3&height=250&section=header&text=GreenSight&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20LiDAR%20%7C%20Smart%20Vegetation%20Monitoring&descAlignY=60&descSize=22" width="100%"/>
+### 🌿 **GreenSight**
+
+### *From Point Clouds to Planetary Insights.*
 
 <br>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F2C3&center=true&vCenter=true&width=800&lines=🌿+AI-Powered+Vegetation+Intelligence;📡+LiDAR+Point+Cloud+Processing;🌳+Smart+Tree+%26+Vegetation+Analysis;🛰️+Geospatial+Environmental+Monitoring;🤖+Raw+Point+Clouds+to+Actionable+Insights" />
-
-<br><br>
-
-<!-- BADGES -->
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Website-00F2C3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://greensight-lidar.base44.app/)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![AI](https://img.shields.io/badge/AI-Vegetation_Analysis-0F9B0F?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
-[![LiDAR](https://img.shields.io/badge/LiDAR-Point_Cloud-00C9A7?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-181717?style=for-the-badge)](#)
-
-<br>
-
-### 🌿 **See Vegetation Differently.**
-**GreenSight** is an AI-driven environmental system that transforms raw **LiDAR point-cloud data** into **3D intelligent insights**.
-
-> *"Turning millions of LiDAR points into meaningful information about our planet."* 🌍
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2c3,35:00c9a7,70:0f9b0f,100:071a0f&height=150&section=footer" width="100%"/>
 
 </div>
 
+
+
+**Contributors:**
+- [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
+- [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
+- [Yashraj Naik](https://www.linkedin.com/in/yashraj-naik-94bb4625b/)
+- Abhishek
+
+![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-pink)
+
+GreenSight is an AI-powered vegetation monitoring platform designed to analyze vegetation health using **LiDAR data**, **remote sensing**, and **machine learning techniques**. The system provides intelligent visualization and analysis of vegetation density, health, and environmental conditions to assist researchers, environmental agencies, and urban planners in making data-driven decisions.
+
 ---
 
-## 🚀 What is GreenSight?
+## 🌐 Live Website
 
-GreenSight is designed to automate and enhance the analysis of vegetation using **3D LiDAR point clouds and Machine Learning**. 
-
-Instead of manually inspecting large-scale spatial data, GreenSight extracts critical environmental metrics automatically, including:
-- 🌳 **Tree & Vegetation Structure**
-- 📏 **Automated Height Estimation**
-- 📐 **Canopy Characteristics & Volume**
-- 🌿 **Vegetation Density Mapping**
-- 🗺️ **3D Spatial Distribution**
-
-**The Ultimate Goal:** A scalable platform for forestry analysis, environmental assessment, and geospatial intelligence.
+👉 **Project Website:** https://greensight-lidar.base44.app/
 
 ---
 
-## 🧠 How It Works: The Pipeline
+# 📖 Overview
 
-```mermaid
-graph TD;
-    A[🌍 Real World Data] -->|LiDAR Sensors| B(📡 Point Cloud Input .LAS/.LAZ);
-    B --> C{🔧 Pre-processing};
-    C -->|Noise Removal| D[🧊 3D Processing Open3D/PDAL];
-    C -->|Ground Classification| D;
-    D --> E((🤖 AI Analysis));
-    E --> F[🌳 Vegetation Insights];
-    F -->|Height & Canopy| G[📊 Data Visualization];
-    F -->|Density| G;
-    G --> H[🌍 Environmental Intelligence Dashboard];
-    
-    style E fill:#0f9b0f,stroke:#000,stroke-width:2px,color:#fff
-    style H fill:#00c9a7,stroke:#000,stroke-width:2px,color:#fff
+GreenSight integrates Artificial Intelligence with LiDAR technology to provide accurate vegetation assessment and monitoring.
+
+The application helps users:
+
+- Detect vegetation health
+- Monitor forest density
+- Analyze environmental conditions
+- Visualize vegetation distribution
+- Generate meaningful insights from LiDAR datasets
+
+The project aims to improve environmental monitoring while reducing manual effort and increasing accuracy.
+
+---
+
+# 🚀 Features
+
+- 🌳 AI-based vegetation analysis
+- 📡 LiDAR data visualization
+- 📈 Interactive charts and statistics
+- 🛰 Remote sensing integration
+- 🌍 User-friendly dashboard
+- 📱 Responsive web interface
+- 📊 Real-time data representation
+- 🎯 Accurate vegetation health assessment
+
+---
+
+# 🛠 Technologies Used
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Visualization
+
+- Chart.js
+- Leaflet.js (Maps)
+- SVG Graphics
+
+### AI Concepts
+
+- Vegetation Classification
+- Health Prediction
+- NDVI Analysis
+- LiDAR Point Cloud Processing
+
+### Other Tools
+
+- Git
+- GitHub
+- GitHub Pages
+
+---
+
+# 📂 Project Structure
+
+```
+greensight/
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── styles/
+│
+├── css/
+│
+├── js/
+│
+├── index.html
+├── about.html
+├── contact.html
+├── services.html
+├── README.md
+│
+└── ...
+```
+
+---
+
+# ⚙ Working Process
+
+The GreenSight system follows the workflow below:
+
+```
+LiDAR Data Collection
+          │
+          ▼
+Data Preprocessing
+          │
+          ▼
+Vegetation Classification
+          │
+          ▼
+AI-based Health Analysis
+          │
+          ▼
+Visualization Dashboard
+          │
+          ▼
+Final Insights & Reports
+```
+
+---
+
+# 🔄 System Workflow
+
+### Step 1
+
+Collect LiDAR and vegetation-related datasets.
+
+↓
+
+### Step 2
+
+Preprocess raw environmental data.
+
+↓
+
+### Step 3
+
+Apply AI algorithms for vegetation detection.
+
+↓
+
+### Step 4
+
+Analyze vegetation health and density.
+
+↓
+
+### Step 5
+
+Generate graphical visualization.
+
+↓
+
+### Step 6
+
+Display reports on the interactive dashboard.
+
+---
+
+# 📊 Modules
+
+## 🌿 Home
+
+Introduces the GreenSight platform and its objectives.
+
+---
+
+## 📡 LiDAR Analysis
+
+Displays LiDAR-based vegetation information.
+
+---
+
+## 🤖 AI Analysis
+
+Uses intelligent algorithms for vegetation health prediction.
+
+---
+
+## 📈 Dashboard
+
+Shows:
+
+- Vegetation Density
+- Health Score
+- Area Coverage
+- Environmental Statistics
+
+---
+
+## 📞 Contact
+
+Provides project information and contact details.
+
+---
+
+# 📷 Screenshots
+
+## Home Page
+
+_Add project screenshot here_
+
+```
+assets/images/home.png
+```
+
+---
+
+## Dashboard
+
+_Add dashboard screenshot here_
+
+```
+assets/images/dashboard.png
+```
+
+---
+
+## Vegetation Analysis
+
+_Add vegetation analysis screenshot here_
+
+```
+assets/images/analysis.png
+```
+
+---
+
+# 📈 Future Enhancements
+
+- Drone Image Integration
+- Satellite Data Support
+- Live Weather API
+- Real-time AI Predictions
+- Mobile Application
+- Cloud Database Integration
+- Export Reports as PDF
+- GIS Mapping Features
+
+---
+
+# 🎯 Applications
+
+GreenSight can be used in:
+
+- Forest Monitoring
+- Agriculture
+- Smart Cities
+- Environmental Research
+- Disaster Management
+- Wildlife Conservation
+- Urban Planning
+- Climate Change Analysis
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ghanashyam11/greensight-.git
+```
+
+Move into the project folder
+
+```bash
+cd greensight-
+```
+
+Open the project
+
+```bash
+Open index.html in your browser
+```
+
+or use VS Code Live Server.
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome!
+
+1. Fork the repository
+2. Create your feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push to the branch
+
+```bash
+git push origin feature-name
+```
+
+5. Create a Pull Request
+
+---
+
+# 👨‍💻 Authors
+
+Developed by
+
+![**Ghanashyam**](https://github.com/ghanashyam11),
+![**Yashraj Naik**](https://github.com/YashrajNaik1234),
+**Prajwala P**,
+**Abhishek**
+
+GitHub: https://github.com/ghanashyam11
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# ⭐ Support
+
+If you found this project useful,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with others
+
+---
+
+## 🌍 GreenSight
+
+**AI + LiDAR for Smarter Environmental Monitoring**
