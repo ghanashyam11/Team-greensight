@@ -1,16 +1,4 @@
-<div align="center">
-
-### 🌿 **GreenSight**
-
-### *From Point Clouds to Planetary Insights.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2c3,35:00c9a7,70:0f9b0f,100:071a0f&height=150&section=footer" width="100%"/>
-
-</div>
-
-
+# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
