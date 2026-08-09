@@ -1,4 +1,9 @@
-# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030712,50:064e3b,100:059669&height=220&section=header&text=GreenSight&fontSize=75&fontColor=10b981&animation=fadeIn&fontAlignY=45" width="100%"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=>_Initializing_LiDAR_Point_Clouds...;>_Deploying_Vegetation_AI_Models...;>_GreenSight_System_Online_🌿" />
+</div>
+
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
