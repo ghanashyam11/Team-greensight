@@ -1,24 +1,4 @@
-<div align="center">
-
-# ⚡ G R E E N S I G H T ⚡
-
-### `[ 🌩️ AI | 📡 LiDAR | 🌲 VEGETATION INTELLIGENCE ]`
-
-> **SYSTEM STATUS:** `ONLINE` 🟢 &nbsp;|&nbsp; **PROCESSING:** `POINT_CLOUDS` 🛰️
-> 
-> *Turning raw environmental data into high-voltage insights.*
-
-<br>
-
-| ⚡ AI Analytics | 🌩️ 3D Processing | ⚡ Geospatial Mapping |
-| :---: | :---: | :---: |
-| Automated Health Scoring | Noise Removal | Distribution Tracking |
-| Density Calculations | Ground Classification | Canopy Volume |
-
-<br>
-</div>
-
----
+[![# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🌿+GreenSight;Smart+Vegetation+Monitoring;Powered+by+AI+%26+LiDAR+🛰️)](https://git.io/typing-svg)
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
