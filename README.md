@@ -1,6 +1,7 @@
 # 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️
 
 Contributers - Ghanashyam M (www.linkedin.com/in/ghanashyam1) , Prajwala P , Yashraj Naik , Abhishek
+
 ![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-orange)
