@@ -1,30 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A12,35:0B6B43,70:00B894,100:00E5B0&height=240&section=header&text=GreenSight&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20LiDAR%20%7C%20Remote%20Sensing%20%7C%20Vegetation%20Intelligence&descAlignY=61&descSize=18" width="100%"/>
+# 🌿 GreenSight
+
+### **INTELLIGENT VEGETATION • SPATIAL AI • LiDAR**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🌍+Mapping+the+Living+Planet;📡+Understanding+Vegetation+in+3D;🤖+AI+for+Environmental+Intelligence;🛰️+LiDAR+%2B+Remote+Sensing+%2B+GeoAI" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5B0&center=true&vCenter=true&width=850&lines=🌿+AI-Powered+Vegetation+Intelligence;📡+LiDAR+Point+Cloud+Analysis;🛰️+Remote+Sensing+%2B+GeoAI;🌳+Smart+Vegetation+Monitoring;🌍+Turning+Environmental+Data+into+Insights" />
+`🌿 VEGETATION`   `📡 LiDAR`   `🤖 AI`   `🛰️ GEOAI`
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🌿_SMART_VEGETATION-0B6B43?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📡_LiDAR-00B894?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖_AI_&_ML-00A884?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🛰️_REMOTE_SENSING-087F5B?style=for-the-badge" />
-
-<br><br>
-
-### 🌍 **See Vegetation. Understand the Planet.**
-
-**GreenSight** transforms **LiDAR, remote sensing and AI** into intelligent
-vegetation insights for smarter environmental monitoring.
-
-<br>
-
-> 🌿 **Observe → Analyze → Understand → Protect**
+**From 3D Point Clouds to Environmental Intelligence.**
 
 </div>
+
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
