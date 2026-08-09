@@ -1,4 +1,4 @@
-# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR
+# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️
 
 ![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
