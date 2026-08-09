@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030712,50:064e3b,100:059669&height=220&section=header&text=GreenSight&fontSize=75&fontColor=10b981&animation=fadeIn&fontAlignY=45" width="100%"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=>_Initializing_LiDAR_Point_Clouds...;>_Deploying_Vegetation_AI_Models...;>_GreenSight_System_Online_🌿" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=🌿%20GreenSight&fontSize=80&fontColor=00F2C3&animation=scaleIn&desc=Smarter%20Monitoring.%20Better%20Planet.&descSize=24&descAlignY=75" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=AI-powered+vegetation+analysis;LiDAR+point+cloud+processing;Smart+environmental+monitoring" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Status-Live-00F2C3?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tech-LiDAR%20%7C%20AI-111111?style=for-the-badge&logo=python" />
+  <br><br>
 </div>
-
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
