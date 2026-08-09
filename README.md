@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="link_to_your_lidar_point_cloud.gif" width="800" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 242, 195, 0.4);"/>
-  <h1>🌲 GreenSight 🌲</h1>
-  <p><b>AI | LiDAR | Smart Vegetation Monitoring</b></p>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=🌿%20GreenSight&fontSize=80&fontColor=00F2C3&animation=scaleIn&desc=Smarter%20Monitoring.%20Better%20Planet.&descSize=24&descAlignY=75" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=AI-powered+vegetation+analysis;LiDAR+point+cloud+processing;Smart+environmental+monitoring" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Status-Live-00F2C3?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tech-LiDAR%20%7C%20AI-111111?style=for-the-badge&logo=python" />
+  <br><br>
 </div>
-
 
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
