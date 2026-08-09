@@ -34,7 +34,7 @@ GreenSight is an AI-powered vegetation monitoring platform designed to analyze v
 
 ---
 
-##  ![🌐 Live Website](https://img.shields.io/badge/License-MIT-yellow)
+##  ![🌐 Live Website](https://img.shields.io/badge/🌐 Live Website-yellow)
 
 
 👉 **Project Website:** https://greensight-lidar.base44.app/
