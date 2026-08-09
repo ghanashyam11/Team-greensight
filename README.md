@@ -1,32 +1,22 @@
 <div align="center">
 
-# 🌿 **GreenSight**
+# 🌿 **GREENSIGHT**
 
-### *Technology for a Greener Planet.*
-
-<br>
-
-🌳 **VEGETATION**
-↓
-📡 **LiDAR & REMOTE SENSING**
-↓
-🤖 **ARTIFICIAL INTELLIGENCE**
-↓
-🗺️ **SPATIAL INTELLIGENCE**
-↓
-🌍 **ENVIRONMENTAL INSIGHTS**
+### **AI-Powered Vegetation Intelligence**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1100&color=00A878&center=true&vCenter=true&width=800&lines=See+Vegetation+in+3D;Measure+What+Matters;Understand+Environmental+Change;Build+a+Smarter+Planet" />
+`LiDAR` · `Remote Sensing` · `Computer Vision` · `GeoAI`
 
 <br><br>
 
-**GreenSight**
-*AI + LiDAR + Remote Sensing for smarter vegetation monitoring.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=750&lines=LiDAR+%C2%B7+Remote+Sensing+%C2%B7+Computer+Vision+%C2%B7+GeoAI;Observe+%C2%B7+Analyze+%C2%B7+Understand;Intelligence+for+a+Greener+Planet" />
+
+<br><br>
+
+> **Turning environmental data into decisions.**
 
 </div>
-
 
 
 
