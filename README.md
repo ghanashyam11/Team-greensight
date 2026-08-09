@@ -8,7 +8,7 @@
 
 ![GreenSight Banner](https://img.shields.io/badge/AI-LiDAR-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-red)
+![License](https://img.shields.io/badge/License-MIT-pink)
 
 GreenSight is an AI-powered vegetation monitoring platform designed to analyze vegetation health using **LiDAR data**, **remote sensing**, and **machine learning techniques**. The system provides intelligent visualization and analysis of vegetation density, health, and environmental conditions to assist researchers, environmental agencies, and urban planners in making data-driven decisions.
 
