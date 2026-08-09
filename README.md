@@ -1,5 +1,8 @@
-# ![🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️](https://img.shields.io/badge/🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️-pink)
+# 🌿 GreenSight - Smart Vegetation Monitoring using AI & LiDAR 🛰️
 
+![AI-LiDAR](https://img.shields.io/badge/AI-LiDAR-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-orange)
 **Contributors:**
 - [Ghanashyam M](https://www.linkedin.com/in/ghanashyam1)
 - [Prajwala P](https://www.linkedin.com/in/ACoAAEXZkLMBJ_jl-I36rrVlxBRMq8hES238UtU)
