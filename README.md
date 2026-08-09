@@ -1,20 +1,28 @@
 <div align="center">
 
-# 🌿 GreenSight
+# GREEN<span style="color:#00B894">SIGHT</span>
 
-### **INTELLIGENT VEGETATION • SPATIAL AI • LiDAR**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🌍+Mapping+the+Living+Planet;📡+Understanding+Vegetation+in+3D;🤖+AI+for+Environmental+Intelligence;🛰️+LiDAR+%2B+Remote+Sensing+%2B+GeoAI" />
+### **AI-Powered Vegetation Intelligence**
 
 <br>
 
-`🌿 VEGETATION`   `📡 LiDAR`   `🤖 AI`   `🛰️ GEOAI`
+**LiDAR** · **Remote Sensing** · **Computer Vision** · **GeoAI**
 
 <br><br>
 
-**From 3D Point Clouds to Environmental Intelligence.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00B894&center=true&vCenter=true&width=750&lines=Analyze+%7C+Visualize+%7C+Understand;3D+Vegetation+%26+LiDAR+Analysis;Smart+Environmental+Monitoring;Technology+for+a+Greener+Planet" />
+
+<br><br>
+
+> **Turning environmental data into decisions.**
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-00B894?style=for-the-badge)](https://greensight-lidar.base44.app/)
+[![GitHub](https://img.shields.io/badge/💻%20SOURCE-111111?style=for-the-badge\&logo=github)](https://github.com/ghanashyam11/greensight-)
 
 </div>
+
 
 
 **Contributors:**
