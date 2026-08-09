@@ -1,6 +1,24 @@
 <div align="center">
 
-<img src="assets/greensight-cinematic-hero.gif" width="100%">
+<img src="YOUR_FUTURISTIC_EARTH_GIF.gif" width="100%">
+
+<br><br>
+
+# **G R E E N S I G H T**
+
+### **AI-Powered Vegetation Intelligence**
+
+<br>
+
+**LI DAR** &nbsp;&nbsp; **REMOTE SENSING** &nbsp;&nbsp; **COMPUTER VISION** &nbsp;&nbsp; **GEOAI**
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD0&center=true&vCenter=true&width=800&lines=OBSERVE.;ANALYZE.;UNDERSTAND.;PROTECT." />
+
+<br><br>
+
+> **Turning environmental data into decisions.**
 
 </div>
 
