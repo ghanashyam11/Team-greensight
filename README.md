@@ -1,22 +1,6 @@
 <div align="center">
 
-<img src="YOUR_CINEMATIC_BACKGROUND.gif" width="100%">
-
-<br><br>
-
-# 🌿 **GREENSIGHT**
-
-### **AI-Powered Vegetation Intelligence**
-
-**LiDAR** · **Remote Sensing** · **Computer Vision** · **GeoAI**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=3500&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=See+Vegetation.+Understand+the+Planet.;Turning+Environmental+Data+into+Intelligence.;Technology+for+a+Greener+Future." />
-
-<br><br>
-
-> **Turning environmental data into decisions.**
+<img src="assets/greensight-hero.gif" width="100%">
 
 </div>
 
