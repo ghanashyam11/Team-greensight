@@ -115,22 +115,28 @@ greensight/
 
 ---
 
-## 🧠 How It Works: The Pipeline
+# ⚙ Working Process
 
-```mermaid
-graph TD;
-    A[🌍 Real World Data] -->|LiDAR Sensors| B(📡 Point Cloud Input .LAS/.LAZ);
-    B --> C{🔧 Pre-processing};
-    C -->|Noise Removal| D[🧊 3D Processing Open3D/PDAL];
-    C -->|Ground Classification| D;
-    D --> E((🤖 AI Analysis));
-    E --> F[🌳 Vegetation Insights];
-    F -->|Height & Canopy| G[📊 Data Visualization];
-    F -->|Density| G;
-    G --> H[🌍 Environmental Intelligence Dashboard];
-    
-    style E fill:#0f9b0f,stroke:#000,stroke-width:2px,color:#fff
-    style H fill:#00c9a7,stroke:#000,stroke-width:2px,color:#fff
+The GreenSight system follows the workflow below:
+
+```
+LiDAR Data Collection
+          │
+          ▼
+Data Preprocessing
+          │
+          ▼
+Vegetation Classification
+          │
+          ▼
+AI-based Health Analysis
+          │
+          ▼
+Visualization Dashboard
+          │
+          ▼
+Final Insights & Reports
+```
 
 ---
 
